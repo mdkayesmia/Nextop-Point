@@ -37,12 +37,3 @@ Nextop Point simplifies the study abroad journey by offering professional consul
 
 ### Deployment
 - Vercel
-
-## 📸 Screenshots
-
-Add project screenshots here.
-
-```bash
-/public/screenshots/home.png
-/public/screenshots/about.png
-/public/screenshots/services.png
